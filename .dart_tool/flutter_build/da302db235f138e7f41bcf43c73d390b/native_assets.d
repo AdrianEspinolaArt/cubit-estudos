@@ -1,0 +1,1 @@
+ /home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit\ treinee/iesde-flutter-test/.dart_tool/flutter_build/da302db235f138e7f41bcf43c73d390b/native_assets.yaml: 

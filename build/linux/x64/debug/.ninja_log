@@ -1,0 +1,29 @@
+# ninja log v5
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/libflutter_linux_gtk.so	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_engine.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_value.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/fl_view.h	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	efcbe653aec6f2e0
+0	8363	0	flutter/_phony_	efcbe653aec6f2e0
+0	8363	0	/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/_phony_	efcbe653aec6f2e0
+8366	8985	1714996242598375224	CMakeFiles/processo_selecao_iesde.dir/flutter/generated_plugin_registrant.cc.o	d14f63b7b29b461c
+8363	8988	1714996242598375224	CMakeFiles/processo_selecao_iesde.dir/main.cc.o	c1c911f9a81af846
+8363	9051	1714996242662375170	CMakeFiles/processo_selecao_iesde.dir/my_application.cc.o	935bdb52de03bc73
+9051	9183	1714996242794375061	intermediates_do_not_run/processo_selecao_iesde	4ef80f21d85a43e
+9183	9300	0	CMakeFiles/install.util	6ff02f9a8838455b

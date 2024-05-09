@@ -1,0 +1,14 @@
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/processo_selecao_iesde.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/edit_cache.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/rebuild_cache.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/list_install_components.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/install.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/install/local.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/CMakeFiles/install/strip.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/flutter_assemble.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/edit_cache.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/rebuild_cache.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/list_install_components.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/install.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/install/local.dir
+/home/iesde.local/adrian.espinola/Documentos/Diretorios/Cubit treinee/iesde-flutter-test/build/linux/x64/debug/flutter/CMakeFiles/install/strip.dir
